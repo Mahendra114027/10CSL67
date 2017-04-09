@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1491751594 source:e:\#projects\github\10csl67\02 - liang barsky line clipping algo\liangbarsky\main.cpp
+1491752851 source:e:\#projects\github\10csl67\09 - scan-line area filling algo\scan-linefillalgo\main.cpp
 	<stdio.h>
+	<stdlib.h>
 	<gl\glut.h>
 
 1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
@@ -12,6 +13,10 @@
 1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
 
 1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
 	<_mingw.h>
 	<stddef.h>
 
@@ -209,10 +214,6 @@
 	<unknwn.h>
 	<objidl.h>
 	<cguid.h>
-
-1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
-	<_mingw.h>
-	<stddef.h>
 
 1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
 	<objfwd.h>
