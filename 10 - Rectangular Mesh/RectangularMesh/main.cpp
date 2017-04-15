@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <gl/glut.h>
 
-#define maxx 200
-#define maxy 255
+#define maxx 50
+#define maxy 55
 #define dx 15
 #define dy 10
 
