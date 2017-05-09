@@ -5,7 +5,7 @@ Computer Graphics and Visualization Laboratory
 Follow the link given below carefully to setup codeblocks with OpenGL
 http://wiki.codeblocks.org/index.php/Using_FreeGlut_with_Code::Blocks
 
-###Jump to the Source Code
+### Jump to the Source Code
  1. [3D Sierpinski Gasket](https://github.com/Mahendra114027/10CSL67/raw/master/01%20-%20Serpienski%20Gasket/3D-Serpienski%20Gasket/main.cpp)    
  2. [Liang-Barsky Line Clipping Algo](https://github.com/Mahendra114027/10CSL67/raw/master/02%20-%20Liang%20Barsky%20Line%20Clipping%20Algo/LiangBarsky/main.cpp)    
  4. [Rotate House](https://github.com/Mahendra114027/10CSL67/raw/master/04%20-%20Rotate%20House/RotateHouse/main.cpp)
